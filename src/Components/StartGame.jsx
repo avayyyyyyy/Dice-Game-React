@@ -8,7 +8,7 @@ const StartGame = () => {
   return (
     <Parent>
       <Container>
-        <img src="src/assets/dices 1.png" alt="" />
+        <img src="./src/assets/dices 1.png" alt="" />
         <Child>
           <Heading>DICE GAME</Heading>
           <a
